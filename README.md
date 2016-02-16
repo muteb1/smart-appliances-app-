@@ -1,3 +1,2 @@
 # smart-appliances-app-
 
-walla 
